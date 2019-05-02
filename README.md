@@ -2,3 +2,4 @@
 ------------------------------------------------------------------
 
 1. First action: redaction of a python "hello world" function.
+2. Second action: web page index.html adding
